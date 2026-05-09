@@ -31,15 +31,15 @@ Eva doesn't just respond. **Eva acts.**
 
 ## 🏗️ Architecture
 User → nsdmai.com (React PWA)
-↓
+     ↓
 Eva AI Agent (Claude API)
-↓
+     ↓
 Google Cloud STT → voice input
 Google Cloud TTS → voice output
 Google Search Console → traffic data
-↓
+     ↓
 Google Cloud Storage → reports saved
-↓
+     ↓
 Google Cloud Run → API Gateway
 eva-api-244525299670.asia-south1.run.app
 
