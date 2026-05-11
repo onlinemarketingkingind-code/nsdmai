@@ -40,6 +40,57 @@ Eva is an **autonomous AI marketing consultant** that takes a single input — a
 - ✅ Voice-narrated findings via Google Cloud Text-to-Speech
 - ✅ Real-time follow-up Q&A with conversational memory
 
+  ## 🛠️ Eva's Tool Suite
+
+Eva includes 4 autonomous analysis tools accessible via voice or interface:
+
+### **1. Eva Scan** - Comprehensive Website Audit
+**What it does:** Analyzes SEO, AEO, GEO, traffic, competitors in 45 seconds  
+**Autonomous features:**
+- Full-site crawl (not just homepage)
+- 10 parallel analysis pipelines
+- Google Search Console integration
+- Competitor benchmarking
+- Traffic projection modeling
+- Industry-specific grading
+
+**Output:** Overall health score + category breakdowns + quick wins
+
+### **2. Eva Crawler** - Technical SEO Deep Dive
+**What it does:** Crawls entire website (up to 200 pages) to find technical issues  
+**Autonomous features:**
+- Intelligent depth limiting
+- Broken link detection
+- Image alt tag analysis
+- Meta tag validation
+- Page speed measurement
+- Keyword extraction (689 unique keywords from 132 pages)
+
+**Output:** Site health summary (98/100) + issue-by-issue breakdown + crawled pages list
+
+### **3. AI Keyword Research** - Strategic Keyword Discovery
+**What it does:** Generates keyword opportunities using AI  
+**Autonomous features:**
+- Primary keyword identification with commercial intent tagging
+- Question-based keywords for FAQ content
+- Long-tail opportunity discovery
+- Content idea generation with strategic angles
+- Competitor gap analysis
+
+**Output:** Categorized keyword lists + content strategy recommendations
+
+### **4. NSDM Rank Checker** - Bulk Position Tracking
+**What it does:** Tracks Google rankings for up to 500 keywords  
+**Autonomous features:**
+- Country/city/device filtering
+- Top-50 coverage analysis
+- Time-series trend tracking
+- Search volume included
+
+**Output:** Ranking positions across geographies and devices
+
+---
+
 **Zero human intervention. 45 seconds average execution time.**
 
 ---
